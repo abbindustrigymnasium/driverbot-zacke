@@ -1,10 +1,22 @@
 # **PLANERING:**
 
+## **Tillvägagångssätt:**
+
+### **Bil:
+Koden för bilen skrivs i c++. Mikro kontrollern ska ta emot order från brokern. MikroKontrollerna ska även kunna återmeddela om den tillkallade aktionen har hänt eller inte. 
+
+### **Brokern:
+Jag kommer utgå från exempel koden som Jocke har tillgivit för projektet och anpassa det efter mina egna mål och syften. Jag tror att jag kommer skriva den med Node js?.
+
+### **Hemsida:
+Hemsidans frontend skrivs i svelte
+
 ## **Mål:**
 Min driverbot ska kunna klara av de grundmål som har sätts upp för projektet, En hemsida som inte ser horribel ut och är funktionell för kraven som existerar samnt kunna visa RPM och hastighet. 
 Extra detaljer som jag själv har ambitioner för att lyckas med är att sätta upp ett blinkerssystem med dioder som kan styras från hemsidan.
 Om Extra tid finns Efteråt jag har åstadkommit mina grundläggande idéer så skulle jag experimentera med utvecklingen av ett autonomt bromsnings system som kan använda en distans
 Sensor för att läsa av om någoting är farligt nära bilen och därav sakta in.
+
 
 ## **Skiss:**
 
