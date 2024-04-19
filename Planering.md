@@ -8,7 +8,11 @@ Sensor för att läsa av om någoting är farligt nära bilen och därav sakta i
 
 ## **Skiss:**
 
+![alt text](https://github.com/abbindustrigymnasium/driverbot-zacke/blob/main/SkissBild.png?raw=true)
 
+## **Flowchart:**
+ 
+![alt text](https://github.com/abbindustrigymnasium/driverbot-zacke/blob/main/Flowchart.png?raw=true)
 
 ## **Veckovis Planering:**
 v.16: Modellera klart alla 3D printade delar, Möjligtvis ändra konstruktion och tankar kring designen av bilen, saker som ska bli klara är Följande MotorHållare, Adapter mellan min motor och en lego axel, 
