@@ -2,13 +2,13 @@
 
 ## **Tillvägagångssätt:**
 
-### **Bil:
+### **Bil:**
 Koden för bilen skrivs i c++. Mikro kontrollern ska ta emot order från brokern. MikroKontrollerna ska även kunna återmeddela om den tillkallade aktionen har hänt eller inte. 
 
-### **Brokern:
+### **Brokern:**
 Jag kommer utgå från exempel koden som Jocke har tillgivit för projektet och anpassa det efter mina egna mål och syften. Jag tror att jag kommer skriva den med Node js?.
 
-### **Hemsida:
+### **Hemsida:**
 Hemsidans frontend skrivs i svelte
 
 ## **Mål:**
