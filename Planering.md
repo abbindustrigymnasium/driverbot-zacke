@@ -1,12 +1,16 @@
 # **PLANERING:**
-##**Mål:**
+
+## **Mål:**
 Min driverbot ska kunna klara av de grundmål som har sätts upp för projektet, En hemsida som inte ser horribel ut och är funktionell för kraven som existerar samnt kunna visa RPM och hastighet. 
 Extra detaljer som jag själv har ambitioner för att lyckas med är att sätta upp ett blinkerssystem med dioder som kan styras från hemsidan.
 Om Extra tid finns Efteråt jag har åstadkommit mina grundläggande idéer så skulle jag experimentera med utvecklingen av ett autonomt bromsnings system som kan använda en distans
 Sensor för att läsa av om någoting är farligt nära bilen och därav sakta in.
 
+## **Skiss:**
 
-## **Veckovis:**
+
+
+## **Veckovis Planering:**
 v.16: Modellera klart alla 3D printade delar, Möjligtvis ändra konstruktion och tankar kring designen av bilen, saker som ska bli klara är Följande MotorHållare, Adapter mellan min motor och en lego axel, 
 Hållare för min servo som ska agera styrningsreglage till bilen.
 
